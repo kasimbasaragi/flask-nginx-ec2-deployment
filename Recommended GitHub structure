@@ -1,0 +1,7 @@
+flask-nginx-ec2-deployment/
+│
+├── app.py
+├── requirements.txt
+├── nginx.conf
+├── README.md
+└── .gitignore
